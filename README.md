@@ -1,13 +1,9 @@
-# Olá! 
+# Hi! Welcome to my GitHub profile.
 
 ## 💫 About Me:
 
-🔭 I’m currently working on ...<br>
-  👯 I’m looking to collaborate on ...<br>
-  🤝 I’m looking for help with ...<br>
-  🌱 I’m currently learning ...<br>
-  💬 Ask me about ...<br>
-  ⚡ Fun fact...
+🔭 I’m currently studying particle physics<br>
+  🌱 I’m currently learning about Quantum Field Theory and basic website languages (HTML CSS and JS)<br>
 <div align="center" style="width: 100px" >
 
 
