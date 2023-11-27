@@ -1,0 +1,54 @@
+QScrollBar:vertical {
+  background: rgb(59, 59, 59);
+  width: 20px;
+}
+QScrollBar::handle:vertical {
+  background: rgb(133, 133, 133);
+  min-height: 0px;
+  border-radius: 4px;
+}
+QMenu {
+  background-color: #616161; /* sets background of the menu */
+  border: 1px solid black;
+  color: white;
+}
+
+QMenu::item {
+  /* sets background of menu item. set this to something non-transparent
+        if you want menu color and menu item color to be different */
+  background-color: transparent;
+}
+
+QMenu::item:selected {
+  /* when user selects item using mouse or keyboard */
+  background-color: #525252;
+}
+
+QMenuBar {
+  spacing: 4px; /* spacing between menu bar items */
+  background-color: rgb(59, 59, 59);
+  /* qlineargradient(
+    x1: 0,
+    y1: 0,
+    x2: 0,
+    y2: 1,
+    stop: 0 darkgray,
+    stop: 1 black
+  ); */
+  color: white;
+}
+
+QMenuBar::item {
+  padding: 1px 4px;
+  background: transparent;
+  border-radius: 4px;
+}
+
+QMenuBar::item:selected {
+  /* when selected using mouse or keyboard */
+  background: #888888;
+}
+
+QMenuBar::item:pressed {
+  background: #888888;
+}
