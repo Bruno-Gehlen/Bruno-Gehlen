@@ -16,7 +16,7 @@
 
 <!--! [](usp.jpg) -->
 
-![Snake animation](https://github.com/bruno-gehlen/bruno-gehlen/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Bruno-Gehlen/Bruno-Gehlen/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
