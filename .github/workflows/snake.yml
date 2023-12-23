@@ -43,9 +43,9 @@ jobs:
           force: true
 
       # UPDATE THE OUTPUT BRANCH WITH THE FILE
-      - uses: crazy-max/ghaction-github-pages@v4.0.0
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
+          target_branch: dev
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
