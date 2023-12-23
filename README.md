@@ -1,6 +1,8 @@
-# Hi! Welcome to my GitHub profile.
+
 
 <div align="center" style="width: 100px" >
+
+# Hi! Welcome to my GitHub profile.
 
 ## 💫 About Me:
 
@@ -21,10 +23,10 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bruno-Gehlen&show_icons=true&theme=dark)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bruno-Gehlen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Gehlen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Bruno-Gehlen&show_icons=true&theme=dark)<br/>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bruno-Gehlen&theme=dark&hide_border=false)<br/>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Gehlen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![snake gif](https://github.com/Bruno-Gehlen/Bruno-Gehlen/blob/output/github-snake-dark.svg)
+![SnakeSVG](https://github.com/Bruno-Gehlen/Bruno-Gehlen/blob/output/github-snake-dark.svg)
 
 </div>
