@@ -23,21 +23,18 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4.1.1
 
-    # Generates the snake  
+    # GENERATE SNAKE  
       - uses: Platane/snk@v3.2.0
         id: snake-gif
         with:
           token: ${{ secrets.WORKFLOW_TOKEN }}
-          github_user_name: bruno-gehlen
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            output/github-snake-dark.svg?palette=github-dark
 
-     # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: git status
-
-      # Push the changes
+      # PUSH CHANGES
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
@@ -45,10 +42,10 @@ jobs:
           branch: main
           force: true
 
-      # - uses: crazy-max/ghaction-github-pages@v4.0.0
-      #   with:
-      #     # the output branch we mentioned above
-      #     target_branch: output
-      #     build_dir: dist
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # UPDATE THE OUTPUT BRANCH WITH THE FILE
+      - uses: crazy-max/ghaction-github-pages@v4.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
