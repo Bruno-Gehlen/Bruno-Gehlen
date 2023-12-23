@@ -6,7 +6,7 @@
 
 ## 💫 About Me:
 
-⚛️ I’m currently interested in particle physics, and I am learning about Quantum Field Theory and its applications.<br>
+⚛️ I’m currently interested in particle physics while learn about Quantum Field Theory foundations and its applications.<br>
 
 ## 💻 Tech Stack:
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
