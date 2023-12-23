@@ -44,7 +44,7 @@ jobs:
 
       # UPDATE THE OUTPUT BRANCH WITH THE FILE
       - uses: crazy-max/ghaction-github-pages@v4
-        with:
+        # with:
           # target_branch: dev
           # build_dir: dist
         env:
