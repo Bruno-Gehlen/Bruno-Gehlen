@@ -15,8 +15,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Gehlen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <! -- <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" /> -->
+  <img alt="github-snake" src="github-user-contribution.svg" />
 </picture>
 
 </div>
