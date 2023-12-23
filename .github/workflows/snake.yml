@@ -29,9 +29,8 @@ jobs:
       - uses: Platane/snk@v3.2.0
         id: snake-gif
         with:
+          token: ${{ secrets.WORKFLOW_TOKEN }}
           github_user_name: bruno-gehlen
-          # these next 2 lines generate the files on a branch called "output". 
-          # This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
