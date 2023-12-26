@@ -2,7 +2,7 @@
 name: Generate Snake
 on:
   schedule:
-    - cron: "0 */6 * * *" #every 6h
+    - cron: "0 */12 * * *" #every 6h
 
   workflow_dispatch:
 
@@ -22,7 +22,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#7658a3
-            dist/ocean.svg?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       # PUSH CHANGES
       - name: Push changes
