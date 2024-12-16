@@ -1,9 +1,13 @@
 <div align="center">
 
-# Hi! Welcome to my GitHub profile.
+# Hi! Welcome to my GitHub profile
+
+Here is some information about me and what I do.
 
 ## 💫 About Me:
 ⚛️ I’m an undegrad physics studend, very interested in Quantum Field Theory foundations and its applications beyond the standard model. Currently deepening my knowledge in differential geometry and functional analysis. <br>
+
+## 🛠️ My Skills
 
   <h3>💻 Tech Stack</h3>
   
