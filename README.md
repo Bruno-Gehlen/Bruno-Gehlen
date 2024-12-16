@@ -3,10 +3,10 @@
 # Hi! Welcome to my GitHub profile.
 
 ## 💫 About Me:
-
 ⚛️ I’m an undegrad physics studend, very interested in Quantum Field Theory foundations and its applications beyond the standard model. Currently deepening my knowledge in differential geometry and functional analysis. <br>
 
-## 💻 Tech Stack
+  <h3>💻 Tech Stack</h3>
+  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -19,22 +19,6 @@
   ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)
   ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Plotly&logoColor=black) 
-  ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-<!-- <details> 
-  <summary><h2>💻 Tech Stack</h2><hr></summary>
-
-  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) <br> 
-  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-  ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Plotly&logoColor=black) 
   ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -140,16 +124,15 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details> -->
-
 
 ## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=Bruno-Gehlen&show_icons=true&theme=dark)<br/>
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bruno-Gehlen&theme=dark&date_format=j%20M%5B%20Y%5D&hide_border=false)<br/>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bruno-Gehlen&theme=dark&date_format=j%20M%5B%20Y%5D&hide_border=false)<br>
+![Stats](https://github-readme-stats.vercel.app/api?username=Bruno-Gehlen&show_icons=true&theme=dark) <br>
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Gehlen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![SnakeSVG](https://github.com/Bruno-Gehlen/Bruno-Gehlen/blob/output/github-snake-dark.svg)
+<!-- **Contributions Snake:**
+![SnakeSVG](https://github.com/Bruno-Gehlen/Bruno-Gehlen/blob/output/github-snake-dark.svg) -->
 
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bruno-gehlen&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bruno-gehlen&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
