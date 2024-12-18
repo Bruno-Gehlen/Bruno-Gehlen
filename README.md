@@ -1,9 +1,13 @@
-# Hi! Welcome to my GitHub profile
+# Hi! My name is Bruno Gehlen!
 
 Here is some information about me and what I do.
 
 ## 💫 About Me:
-⚛️ Bachelor of Science in Physics with a demonstrated passion for theoretical physics, particularly in the areas of particle physics and the intricacies of Quantum Field Theory (QFT). Proficient in the mathematical underpinnings of modern physics, including differential geometry and functional analysis, enabling rigorous exploration of physical phenomena at the most fundamental level. Seeking challenging opportunities to apply this specialized knowledge and contribute to advancements in theoretical research or related analytical roles. <br>
+Bachelor of Science in Physics with a demonstrated passion for theoretical physics, particularly in the areas of particle physics and the intricacies of Quantum Field Theory (QFT). Proficient in the mathematical underpinnings of modern physics, including differential geometry and functional analysis, enabling rigorous exploration of physical phenomena at the most fundamental level. Seeking challenging opportunities to apply this specialized knowledge and contribute to advancements in theoretical research or related analytical roles. <br>
+
+Beyond my academic pursuits in theoretical physics, I maintain a keen interest in software development and the open-source community. I enjoy exploring front-end technologies, including HTML, CSS, and JavaScript, to create interactive and user-friendly web interfaces.  Furthermore, I'm proficient in Python and its scientific libraries, which I utilize for data analysis, simulations, and exploring computational approaches to problem-solving. This passion extends to a broader appreciation for open-source software and operating systems, reflecting my belief in collaborative development and the power of community-driven innovation.
+
+Feel free to check out my repositories and some little works I like to build during my inspired free time as a programmer.
 
 ## 🛠️ My Skills
 
@@ -102,7 +106,7 @@ Here is some information about me and what I do.
       <!-- <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a> -->
       <!-- <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a> -->
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=coder&logoColor=white"></a>
   </p>
 
 ## 📊 GitHub Stats:
