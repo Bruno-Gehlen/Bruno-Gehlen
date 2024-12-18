@@ -1,11 +1,9 @@
-<div >
-
 # Hi! Welcome to my GitHub profile
 
 Here is some information about me and what I do.
 
 ## 💫 About Me:
-⚛️ I’m an undegrad physics studend, very interested in Quantum Field Theory foundations and its applications beyond the standard model. Currently deepening my knowledge in differential geometry and functional analysis. <br>
+⚛️ Bachelor of Science in Physics with a demonstrated passion for theoretical physics, particularly in the areas of particle physics and the intricacies of Quantum Field Theory (QFT). Proficient in the mathematical underpinnings of modern physics, including differential geometry and functional analysis, enabling rigorous exploration of physical phenomena at the most fundamental level. Seeking challenging opportunities to apply this specialized knowledge and contribute to advancements in theoretical research or related analytical roles. <br>
 
 ## 🛠️ My Skills
 
@@ -78,6 +76,7 @@ Here is some information about me and what I do.
       <!-- <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a> -->
       <!-- <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a> -->
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
+      <a href="#"><img alt="Simplify" src="https://img.shields.io/badge/Amplify-fc1c03.svg?style=for-the-badge&logo=awsamplify&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
@@ -107,14 +106,13 @@ Here is some information about me and what I do.
   </p>
 
 ## 📊 GitHub Stats:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bruno-Gehlen&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bruno-Gehlen&show_icons=true&theme=dark) <br>
-<!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Gehlen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<p style="text-align: center;">
+  <!-- <a style="display: inline-block; vertical-align: middle;" href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=bruno-gehlen&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a> -->
+  <a style="display: inline-block; vertical-align: middle;" href="#"><img src="https://github-readme-stats.vercel.app/api?username=Bruno-Gehlen&show_icons=true&theme=dark" alt="GitHub Stats" /></a>
+  <!-- <a style="display: inline-block; vertical-align: middle;" href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Gehlen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Languages" /></a> -->
+</p>
 
 <!-- **Contributions Snake:**
 ![SnakeSVG](https://github.com/Bruno-Gehlen/Bruno-Gehlen/blob/output/github-snake-dark.svg) -->
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bruno-gehlen&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
