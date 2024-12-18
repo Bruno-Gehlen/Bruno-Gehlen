@@ -108,13 +108,13 @@ Here is some information about me and what I do.
 
 ## 📊 GitHub Stats:
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bruno-Gehlen&theme=dark&date_format=j%20M%5B%20Y%5D&hide_border=false)
-![Stats](https://github-readme-stats.vercel.app/api?username=Bruno-Gehlen&show_icons=true&theme=dark) <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bruno-Gehlen&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bruno-Gehlen&show_icons=true&theme=dark) <br>
 <!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Gehlen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 <!-- **Contributions Snake:**
 ![SnakeSVG](https://github.com/Bruno-Gehlen/Bruno-Gehlen/blob/output/github-snake-dark.svg) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bruno-gehlen&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bruno-gehlen&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
