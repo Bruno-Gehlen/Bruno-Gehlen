@@ -113,14 +113,14 @@ Feel free to check out my repositories and some little works I like to build dur
   </p>
 
 ## 📊 GitHub Stats:
-<div style="text-align: center">
-<p>
-  <a style="display: inline-block; vertical-align: middle;" href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=bruno-gehlen&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-  <a style="display: inline-block;" href="#">
+<div style="text-align:center;">
+<p style="text-align:center;">
+  <a style="text-align:center;" href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=bruno-gehlen&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <a style="text-align:center;" href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=Bruno-Gehlen&show_icons=true&theme=dark" alt="GitHub Stats" />
     <!-- <p> olá </p>-->
   </a>
-  <a style="display: inline-block; vertical-align: middle;" href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Gehlen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Languages" /></a>
+  <a style="text-align:center;" href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Gehlen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Languages" /></a>
 </p>
 </div>
 
